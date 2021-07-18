@@ -165,7 +165,7 @@ def index():
                     if i==j: continue
                     if j not in lista:lista.append(j)
             #print("newlista: ",lista)
-            newlista=lista.copy()ey
+            newlista=lista.copy()
 
             for u in verti:
                 if u in lista:lista.remove(u)

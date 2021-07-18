@@ -1,0 +1,14 @@
+13
+H 2 house white
+V 4 dog tongue smile animal
+V 3 painting girl butterfly
+H 2 ocean blue
+H 3 mountain scenery blue
+H 3 sky scenery blue
+H 4 painting sky blue girl
+H 4 painting lion animal blue
+H 4 painting cat animal blue
+H 3 scenery sky grass
+H 2 painting smile
+H 3 aeroplane sky blue
+H 2 duck animal grass
