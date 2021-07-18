@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slideshow</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+</head>
+<body style="background-image: url('static/back.jpg'); background-color: yellow;">
+	<h1 style="padding: 30px; text-align: center; font-family: 'Varela Round','Anton', sans-serif; font-size: 80px; color: white;">YOUR SLIDESHOW IS READY !</h1>
+    <tbody>
+		{% for row in usr_img %} 
+		<tr>
+			<td class="image" data-title="No" style="padding: 20px;"><img src= "{{ row }}" alt="User Image"></td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</body>
+</html>

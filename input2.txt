@@ -1,0 +1,11 @@
+10
+H 4 money laptop phone pen
+V 3 tower clouds sky
+H 2 cup plate
+H 6 coffee cup food plate fork table
+H 4 balls girl tub smile
+H 3 bag woman scarf hat
+H 3 hand pen laptop
+H 2 books table
+H 4 glasses woman smile tshirt 
+V 3 tracks tree sky

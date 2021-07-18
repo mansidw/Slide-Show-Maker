@@ -1,0 +1,21 @@
+20
+H 3 flowers mountain sky
+V 3 camera woman photo trees 
+V 2 lights jar
+H 4 bird sky river trees
+H 2 car house
+H 3 moon man stars
+H 3 house trees road car
+H 3 woman selfie photo
+V 3 dog smile sky
+H 5 bridge river lights sky ship
+V 5 food glass pink bottle straw
+V 2 wolf snow
+H 3 baby bottle smile
+H 4 hands heart clouds pink
+H 4 table chair cloth plant
+V 3 jar lights snow
+V 3 balloons pink door
+H 3 plant table chair
+H 4 clouds flowers sky trees 
+V 3 glass hands lights
